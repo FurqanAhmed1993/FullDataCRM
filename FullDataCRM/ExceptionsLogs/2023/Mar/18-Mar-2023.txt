@@ -1,0 +1,4 @@
+-------------------START-------------3/18/2023 7:03:56 PM
+Source : /Pages/Setup/User.aspx.aspx - BindRepeater
+Error : Error occured during usp_UserLogin_Get : @IsActive is not a parameter for procedure usp_UserLogin_Get.
+-------------------END-------------3/18/2023 7:03:56 PM

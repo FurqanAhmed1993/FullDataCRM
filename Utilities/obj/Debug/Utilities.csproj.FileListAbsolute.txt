@@ -1,0 +1,21 @@
+D:\Office Work\TaskManagementSystem\Utilities\bin\Debug\Utilities.dll
+D:\Office Work\TaskManagementSystem\Utilities\bin\Debug\Utilities.pdb
+D:\Office Work\TaskManagementSystem\Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\Office Work\TaskManagementSystem\Utilities\obj\Debug\Utilities.dll
+D:\Office Work\TaskManagementSystem\Utilities\obj\Debug\Utilities.pdb
+C:\GitProjects\TaskManagement\Utilities\bin\Debug\Utilities.dll
+C:\GitProjects\TaskManagement\Utilities\bin\Debug\Utilities.pdb
+C:\GitProjects\TaskManagement\Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\TaskManagement\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\GitProjects\TaskManagement\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\GitProjects\TaskManagement\Utilities\obj\Debug\Utilities.dll
+C:\GitProjects\TaskManagement\Utilities\obj\Debug\Utilities.pdb
+D:\Office Work\TaskManagementSystem\Utilities\bin\Debug\EPPlus.dll
+C:\GitProjects\TaskManagement\Utilities\bin\Debug\EPPlus.dll
+C:\GitProjects\FullDataCRM\Utilities\bin\Debug\Utilities.dll
+C:\GitProjects\FullDataCRM\Utilities\bin\Debug\Utilities.pdb
+C:\GitProjects\FullDataCRM\Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\Utilities\obj\Debug\Utilities.dll
+C:\GitProjects\FullDataCRM\Utilities\obj\Debug\Utilities.pdb

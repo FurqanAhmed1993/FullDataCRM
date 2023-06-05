@@ -1,0 +1,30 @@
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\DAL.dll
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\DAL.pdb
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\Utilities.dll
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\Utilities.pdb
+D:\Office Work\TaskManagementSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Office Work\TaskManagementSystem\DAL\obj\Debug\DAL.dll
+D:\Office Work\TaskManagementSystem\DAL\obj\Debug\DAL.pdb
+D:\Office Work\TaskManagementSystem\DAL\bin\Debug\EPPlus.dll
+C:\GitProjects\TaskManagement\DAL\bin\Debug\DAL.dll
+C:\GitProjects\TaskManagement\DAL\bin\Debug\DAL.pdb
+C:\GitProjects\TaskManagement\DAL\bin\Debug\Utilities.dll
+C:\GitProjects\TaskManagement\DAL\bin\Debug\EPPlus.dll
+C:\GitProjects\TaskManagement\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\TaskManagement\DAL\bin\Debug\Utilities.pdb
+C:\GitProjects\TaskManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\GitProjects\TaskManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\TaskManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\GitProjects\TaskManagement\DAL\obj\Debug\DAL.dll
+C:\GitProjects\TaskManagement\DAL\obj\Debug\DAL.pdb
+C:\GitProjects\FullDataCRM\DAL\bin\Debug\DAL.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Debug\DAL.pdb
+C:\GitProjects\FullDataCRM\DAL\bin\Debug\Utilities.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Debug\Utilities.pdb
+C:\GitProjects\FullDataCRM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\GitProjects\FullDataCRM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\DAL\obj\Debug\DAL.dll
+C:\GitProjects\FullDataCRM\DAL\obj\Debug\DAL.pdb

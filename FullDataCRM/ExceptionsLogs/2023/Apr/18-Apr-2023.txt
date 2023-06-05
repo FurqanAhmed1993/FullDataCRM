@@ -1,0 +1,24 @@
+-------------------START-------------4/18/2023 5:47:07 PM
+Source : Login.aspx - btnLogin_Click
+Error : Column 'IsEnable' does not belong to table .
+-------------------END-------------4/18/2023 5:47:07 PM
+-------------------START-------------4/18/2023 6:45:23 PM
+Source : /Pages/Setup/User.aspx.aspx - BindRepeater
+Error : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'IsEnable'.
+-------------------END-------------4/18/2023 6:45:23 PM
+-------------------START-------------4/18/2023 6:46:59 PM
+Source : /Pages/Setup/User.aspx.aspx - BindRepeater
+Error : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SerialNo'.
+-------------------END-------------4/18/2023 6:46:59 PM
+-------------------START-------------4/18/2023 6:47:38 PM
+Source : /Pages/Setup/User.aspx.aspx - BindRepeater
+Error : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SerialNo'.
+-------------------END-------------4/18/2023 6:47:38 PM
+-------------------START-------------4/18/2023 6:50:22 PM
+Source : /Pages/Setup/User.aspx.aspx - BindRepeater
+Error : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Created By'.
+-------------------END-------------4/18/2023 6:50:22 PM
+-------------------START-------------4/18/2023 6:52:13 PM
+Source : /Pages/Setup/User.aspx - lbEdit_Click
+Error : Object reference not set to an instance of an object.
+-------------------END-------------4/18/2023 6:52:13 PM

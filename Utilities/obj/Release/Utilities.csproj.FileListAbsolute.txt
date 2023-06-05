@@ -1,0 +1,8 @@
+C:\GitProjects\FullDataCRM\Utilities\bin\Release\Utilities.dll
+C:\GitProjects\FullDataCRM\Utilities\bin\Release\Utilities.pdb
+C:\GitProjects\FullDataCRM\Utilities\bin\Release\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\Utilities\obj\Release\Utilities.csproj.AssemblyReference.cache
+C:\GitProjects\FullDataCRM\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\Utilities\obj\Release\Utilities.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\Utilities\obj\Release\Utilities.dll
+C:\GitProjects\FullDataCRM\Utilities\obj\Release\Utilities.pdb

@@ -1,0 +1,216 @@
+﻿.serviceBox {
+    min-height: 190px;
+    background: #fff;
+    text-align: left;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    transition: all 0.5s ease 0s;
+    position: relative;
+    box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.1), 0 0px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+    .serviceBox .badge {
+        background-color: #fbfbfb;
+        color: #272B34;
+    }
+
+    .serviceBox:hover {
+        color: #fff;
+        background: #ee3124;
+    }
+
+    .serviceBox .small, .serviceBox small {
+        font-size: 90%;
+    }
+
+    .serviceBox .title {
+        font-size: 20px;
+        line-height: 1.4em;
+        color: #343434;
+        margin: 5px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .serviceBox:hover .title {
+        color: #fff;
+    }
+
+    .serviceBox .service-icon {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border: 1px solid #ee3124;
+        margin: 0 auto 10px;
+        transition: all 0.5s ease 0s;
+        position: absolute;
+        top: -15px;
+        left: -13px;
+    }
+
+        /*.serviceBox:hover .title {
+                white-space: inherit;
+                overflow: inherit;
+                text-overflow: inherit;
+            }*/
+
+        .serviceBox .service-icon img {
+            max-width: 100%;
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+        }
+
+    .serviceBox .label-primary {
+        display: inline-block;
+        padding: 5px 8px;
+        margin-bottom: 4px;
+    }
+
+    .serviceBox:hover .label-primary {
+        background-color: #eee;
+        color: #333;
+    }
+
+    .serviceBox:hover .service-icon {
+        transform: scale(1.20);
+        background: #ee3124;
+    }
+
+    .serviceBox .service-icon i {
+        font-size: 50px;
+        color: #3db39e;
+        line-height: 100px;
+    }
+
+    .serviceBox .description {
+        font-size: 14px;
+        color: #64676b;
+        line-height: 25px;
+        margin-bottom: 0px;
+        transition: all 0.5s ease 0s;
+    }
+
+    .serviceBox:hover .description, .serviceBox:hover .description small {
+        color: #fff;
+    }
+
+    .serviceBox .read {
+        display: inline-block;
+        font-size: 13px;
+        color: #64676b;
+        text-transform: capitalize;
+        padding: 5px 10px;
+        border-top: 1px solid #64676b;
+        transition: all 0.5s ease 0s;
+    }
+
+    .serviceBox:hover .read {
+        color: #fff;
+        border-top-color: #fff;
+    }
+
+/*h3.title {
+            margin: 0;
+            padding: 0;
+            white-space: nowrap;
+            width: 80%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            line-height: 30px;
+            box-sizing: border-box;
+            position: relative;
+        }*/
+
+
+.tooltip {
+    width: 80%;
+    visibility: hidden;
+    background-color: #fff;
+    padding: 20px;
+    -webkit-box-shadow: 0 0 50px 0 rgba(0,0,0,0.3);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    position: absolute;
+    top: 5em;
+    left: 0;
+}
+
+
+.title:hover + .tooltip {
+    visibility: visible;
+    transition: opacity 0.5s ease;
+    opacity: 1;
+    color: #000 !important;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 990px) {
+    .serviceBox {
+        margin-bottom: 20px;
+    }
+}
+
+.card-body {
+    height: fit-content !important;
+}
+
+.spanRedText {
+    color: red;
+    padding-left: 10px;
+}
+
+.spanGreenText {
+    color: lawngreen;
+    padding-left: 10px;
+}
+
+.customPanel {
+    height: 400px;
+    overflow: auto;
+}
+
+    .customPanel th {
+        background-color: #43444c !important;
+        color: #ffffff !important;
+    }
+
+td, th {
+    padding: 5px !important;
+}
+
+table {
+    width: 100%;
+}
+/*.tableFixHead          { overflow: auto; height: 100px; }*/
+.tableFixHead tbody th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.panel-body.customPanel {
+    margin: 15px;
+}
+
+.panel-body.customPanel {
+    padding: 0px !important;
+}
+
+.buttonDiv {
+    text-align: right;
+    margin-bottom: 15px;
+}
+
+.cardBodyContent {
+    height: 90px;
+}
+
+.ProjectModal-dialog {
+    width: 61% !important;
+}
+.task-name{
+    margin-bottom:-16px !important;
+}

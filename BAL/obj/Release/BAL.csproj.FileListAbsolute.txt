@@ -1,0 +1,12 @@
+C:\GitProjects\FullDataCRM\BAL\bin\Release\BAL.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Release\BAL.pdb
+C:\GitProjects\FullDataCRM\BAL\bin\Release\DAL.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Release\Utilities.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Release\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Release\DAL.pdb
+C:\GitProjects\FullDataCRM\BAL\bin\Release\Utilities.pdb
+C:\GitProjects\FullDataCRM\BAL\obj\Release\BAL.csproj.AssemblyReference.cache
+C:\GitProjects\FullDataCRM\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\BAL\obj\Release\BAL.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\BAL\obj\Release\BAL.dll
+C:\GitProjects\FullDataCRM\BAL\obj\Release\BAL.pdb

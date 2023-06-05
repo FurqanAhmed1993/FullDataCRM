@@ -1,0 +1,10 @@
+C:\GitProjects\FullDataCRM\DAL\bin\Release\DAL.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Release\DAL.pdb
+C:\GitProjects\FullDataCRM\DAL\bin\Release\Utilities.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Release\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\DAL\bin\Release\Utilities.pdb
+C:\GitProjects\FullDataCRM\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\GitProjects\FullDataCRM\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\DAL\obj\Release\DAL.dll
+C:\GitProjects\FullDataCRM\DAL\obj\Release\DAL.pdb

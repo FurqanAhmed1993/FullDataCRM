@@ -1,0 +1,36 @@
+D:\Office Work\TaskManagementSystem\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\BAL.dll
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\BAL.pdb
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\DAL.dll
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\Utilities.dll
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\DAL.pdb
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\Utilities.pdb
+D:\Office Work\TaskManagementSystem\BAL\obj\Debug\BAL.dll
+D:\Office Work\TaskManagementSystem\BAL\obj\Debug\BAL.pdb
+D:\Office Work\TaskManagementSystem\BAL\bin\Debug\EPPlus.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\BAL.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\BAL.pdb
+C:\GitProjects\TaskManagement\BAL\bin\Debug\DAL.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\Utilities.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\EPPlus.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\TaskManagement\BAL\bin\Debug\DAL.pdb
+C:\GitProjects\TaskManagement\BAL\bin\Debug\Utilities.pdb
+C:\GitProjects\TaskManagement\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\GitProjects\TaskManagement\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\TaskManagement\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\GitProjects\TaskManagement\BAL\obj\Debug\BAL.dll
+C:\GitProjects\TaskManagement\BAL\obj\Debug\BAL.pdb
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\BAL.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\BAL.pdb
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\DAL.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\Utilities.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\Newtonsoft.Json.dll
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\DAL.pdb
+C:\GitProjects\FullDataCRM\BAL\bin\Debug\Utilities.pdb
+C:\GitProjects\FullDataCRM\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\GitProjects\FullDataCRM\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\GitProjects\FullDataCRM\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\GitProjects\FullDataCRM\BAL\obj\Debug\BAL.dll
+C:\GitProjects\FullDataCRM\BAL\obj\Debug\BAL.pdb

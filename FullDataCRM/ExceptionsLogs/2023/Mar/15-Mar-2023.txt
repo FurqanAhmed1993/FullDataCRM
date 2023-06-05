@@ -1,0 +1,12 @@
+-------------------START-------------3/15/2023 4:00:31 PM
+Source : Login.aspx - btnLogin_Click
+Error : Error occured during usp_UserLogin_Get_UserByLoginId : Procedure or function usp_UserLogin_Get_UserByLoginId has too many arguments specified.
+-------------------END-------------3/15/2023 4:00:31 PM
+-------------------START-------------3/15/2023 4:00:43 PM
+Source : Login.aspx - btnLogin_Click
+Error : Error occured during usp_UserLogin_Get_UserByLoginId : Procedure or function usp_UserLogin_Get_UserByLoginId has too many arguments specified.
+-------------------END-------------3/15/2023 4:00:43 PM
+-------------------START-------------3/15/2023 4:01:14 PM
+Source : Login.aspx - btnLogin_Click
+Error : Error occured during usp_UserLogin_Get_UserByLoginId : Procedure or function usp_UserLogin_Get_UserByLoginId has too many arguments specified.
+-------------------END-------------3/15/2023 4:01:14 PM
